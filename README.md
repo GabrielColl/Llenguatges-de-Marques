@@ -31,5 +31,5 @@ Al guardar-ho amb extensió _.html_ aquest obri fàcilment al navegador.
 
 5. ###Document CSS
 Amb el document _.css_ cream i definim la presentació i el document HTML. Per crear aquest document he utilitzat un altre cop la web [W3schools] la qual juntament amb els apunts m'ha ajudat a comprendre el funcionament.
-Per si tot sol aquest document no es pot obrir amb cap document ja que és una **extensió del document HTML**.
+Per si tot sol aquest document no es pot obrir amb cap aplicació ja que és una **extensió del document HTML**.
 [W3schools]:http://www.w3schools.com/html/html_examples.asp
