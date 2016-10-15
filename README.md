@@ -1,5 +1,5 @@
 # Llenguatges-de-Marques
-En aquesta primera em creat i pujat uns documents amb diferents formats:
+En aquesta primera tasca em creat i pujat uns documents amb diferents formats:
 
 1. ###Document en RTF.  
 Primerament he obert el bloc de notes i he copiat el text que el professor ens ha facilitat als apunts. He guardat l'arxiu amb el nom RTF  i li he aplicat l extensió _**.rtf**_. **Utilitzam la codificació Ansi per guardar l'arxiu***.  
