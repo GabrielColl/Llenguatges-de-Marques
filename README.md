@@ -8,7 +8,8 @@ Primerament he obert el bloc de notes i he copiat el text que el professor ens h
 
 2. ###Document Postscript.
 Seguint els passos que explicaven els apunts he creat un document el qual posa _**“hola me llamo Biel!”**_i s'ha guardat el document amb l'extensió _**.ps**_ i **codificació Ansi**. 
-En aquest cas he tingut series dificultats en saber si estava bé o no perquè no em va quedar clar si el signe de tant per cent s'havia de posar o no. Gracies a l'aportació d'un company al fòrum he pogut obrir l'arxiu amb el programa _GSView_ i he vist que el signe mencionat abans no s havia de posar.
+En aquest cas he tingut series dificultats en saber si estava bé o no perquè no em va quedar clar si el signe de tant per cent s'havia de posar o no.  
+Gracies a l'aportació d'un company al fòrum he pogut obrir l'arxiu amb el programa _GSView_ i he vist que el signe mencionat abans no s havia de posar.
 
 3. ###Document XML
 Per fer aquest document m'he basat amb s'informació que m'han aportat aquestes dues pagines web:
