@@ -12,16 +12,16 @@ En aquest cas he tingut series dificultats en saber si estava bé o no perquè n
 
 3. ###Document XML
 Per fer aquest document m'he basat amb s'informació que m'han aportat aquestes dues pagines web:
- * [Codexexempla.org](http://www.codexexempla.org/curso/curso_1_1.php) 
+ * [Codexexempla.org](http://www.codexexempla.org/curso/curso_1_1.php)
  * [Microsoft office](https://support.office.com/es-es/article/XML-para-principiantes-a87d234d-4c2e-4409-9cbc-45e4eb857d44)  
 Amb l'informació obtinguda d'aquestes pagines he creat un document .xml on apareixen:  
-      * **La declaració Xml**, formada per: 
-        * _version_: Indica sa versió de XML que se està utilitzant
-        * _Encoding_: Especifica el joc de caràcters amb el que s'ha codificat el document. Por defecte  UTF-8.
-        * _Standalone_: Especifica si la validesa del document depèn d'un altre document extern.   
-     * **Marcat**: Es el procés d'utilitzar codis denominats etiquetes per definir el significat de les dades.  
-     * **Contingut**: Es l'informació o les dades.  
-Aquest document es pot obrir amb qualsevol navegador.
+  * **La declaració Xml**, formada per:   
+    * _version_: Indica sa versió de XML que se està utilitzant
+    * _Encoding_: Especifica el joc de caràcters amb el que s'ha codificat el document. Por defecte  UTF-8.
+    * _Standalone_: Especifica si la validesa del document depèn d'un altre document extern.   
+  * **Marcat**: Es el procés d'utilitzar codis denominats etiquetes per definir el significat de les dades.  
+  * **Contingut**: Es l'informació o les dades.  
+Aquest document es pot obrir amb qualsevol navegador. 
 
 4. ###Document HTML 
 Per fer el document _.html_ m'he basat amb l'informació dels apunts i amb l'ajuda d aquesta pagina web [W3schools] on explica que significa cada lletra i com aplicar-ho.
