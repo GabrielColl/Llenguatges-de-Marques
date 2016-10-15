@@ -1,5 +1,5 @@
 # Llenguatges-de-Marques
-En aquesta primera tasca ens demanaven que creéssim uns documents amb diferents formats:
+En aquesta primera em creat i pujat uns documents amb diferents formats:
 
 1. ###Document en RTF.  
 Primerament he obert el bloc de notes i he copiat el text que el professor ens ha facilitat als apunts. He guardat l'arxiu amb el nom RTF  i li he aplicat l extensió _**.rtf**_. **Utilitzam la codificació Ansi per guardar l'arxiu***.  
@@ -7,11 +7,11 @@ Primerament he obert el bloc de notes i he copiat el text que el professor ens h
 > *Si utilitzam codificació unicode a l'hora de guardar, quan ho vulguem obrir a l'open office no es veura el document com toca.
 
 2. ###Document Postscript.
-Seguint els passos que ens explicaven els apunts he creat un document el qual posa _**“hola me llamo Biel!”**_. Guardam el document amb l'extensió _**.ps**_ i **codificació Ansi**. 
-En aquest cas he tingut series dificultats en saber si estava be o no perquè no em va quedar clar si el signe de tant per cent s'havia de posar o no. Gracies a l'aportació d un company al fòrum he pogut obrir l'arxiu amb el programa _GSView_ i he vist que el signe mencionat abans no s havia de posar.
+Seguint els passos que explicaven els apunts he creat un document el qual posa _**“hola me llamo Biel!”**_i s'ha guardat el document amb l'extensió _**.ps**_ i **codificació Ansi**. 
+En aquest cas he tingut series dificultats en saber si estava bé o no perquè no em va quedar clar si el signe de tant per cent s'havia de posar o no. Gracies a l'aportació d'un company al fòrum he pogut obrir l'arxiu amb el programa _GSView_ i he vist que el signe mencionat abans no s havia de posar.
 
 3. ###Document XML
-Per fer aquest document m'he basat amb s'informació que m han aportat aquestes dues pagines web:
+Per fer aquest document m'he basat amb s'informació que m'han aportat aquestes dues pagines web:
  * [Codexexempla.org](http://www.codexexempla.org/curso/curso_1_1.php) 
  * [Microsoft office](https://support.office.com/es-es/article/XML-para-principiantes-a87d234d-4c2e-4409-9cbc-45e4eb857d44)  
 Amb l'informació obtinguda d'aquestes pagines he creat un document .xml on apareixen:  
@@ -24,9 +24,11 @@ Amb l'informació obtinguda d'aquestes pagines he creat un document .xml on apar
 Aquest document es pot obrir amb qualsevol navegador.
 
 4. ###Document HTML 
-Per fer el document _.html_ m'he basat amb l'informació dels apunts i amb l'ajuda d aquesta pagina web [W3schools](http://www.w3schools.com/html/html_examples.asp) on explica que significa cada lletra i com aplicar-ho.   
+Per fer el document _.html_ m'he basat amb l'informació dels apunts i amb l'ajuda d aquesta pagina web [W3schools] on explica que significa cada lletra i com aplicar-ho.
+He creat un document on hi ha un breu escrit, uns links a pàgines web i una foto.  
 Al guardar-ho amb extensió _.html_ aquest obri fàcilment al navegador.
 
 5. ###Document CSS
 Amb el document _.css_ cream i definim la presentació i el document HTML. Per crear aquest document he utilitzat un altre cop la web [W3schools] la qual juntament amb els apunts m'ha ajudat a comprendre el funcionament.
+Per si tot sol aquest document no es pot obrir amb cap document ja que és una **extensió del document HTML**.
 [W3schools]:http://www.w3schools.com/html/html_examples.asp
